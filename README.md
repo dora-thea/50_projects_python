@@ -13,4 +13,4 @@ Beginner, intermediate and advanced projects :)
 | 7  | Hangman  | In progress |
 | 8  | Secure Password Generator  | In progress |
 | 9  | Caesar Cipher  | In progress |
-| 10  | Mystic 8 Ball  | In progress |
+| 10  | [Mystic 8 Ball](https://github.com/dora-thea/50_projects_python/tree/main/mystic_8_ball)  | Completed |
