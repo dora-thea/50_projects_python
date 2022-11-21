@@ -52,6 +52,7 @@ def main():
 
     set_password_char_settings()
 
+    print("\nYour passwords:")
     for _ in range(amount_of_passwords):
         print(generate_password(pass_length))
 
