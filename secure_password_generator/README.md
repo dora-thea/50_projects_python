@@ -1,5 +1,30 @@
 # Python project for "Secure password generator"
 
+### Project description: 
+The program generates a set number of passwords and includes a smart setting for the length of the password, as well as which characters need to be included in it and which ones to exclude.
+
+### Details:
+The program should request the following information from the user:
+- Number of passwords to generate;
+- The length of one password;
+- Should the numbers 0123456789 be included?
+- Should the uppercase letters ABCDEFGHIJKLMNOPQRSTUVWXYZ be included?
+- Should the lowercase letters abcdefghijklmnopqrstuvwxyz be included?
+- Whether to include symbols !#$%&*+-=?@^_?
+- Should the ambiguous il1Lo0O characters be excluded?
+
+Also this is a strong password generator which necessarily include characters from each selected section.
+
+### Components of the project:
+
+- Variables;
+- Data input/output (input() and print() functions);
+- Conditional operator (if/elif/else);
+- While loop;
+- Writing custom functions;
+- Foolproof;
+- Working with the random module to generate random numbers.
+
 ### Code 
 ```python
 #  generate secure passwords
