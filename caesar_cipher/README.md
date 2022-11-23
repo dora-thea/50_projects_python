@@ -6,9 +6,9 @@ This is a program that can encrypt and decrypt text according to Caesar’s algo
 - Alphabet language: Russian or English
 - Shift step (with a right shift).
 
-Note 1. Consider 32 letters in Russian.
-Note 2. Non-alphabetic characters - punctuation, spaces, numbers - do not change.
-Note 3. Save the case of characters. 
+####### Note 1. Consider 32 letters in Russian.
+####### Note 2. Non-alphabetic characters - punctuation, spaces, numbers - do not change.
+####### Note 3. Save the case of characters. 
 
 ### Project components:
 
