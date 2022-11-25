@@ -1,9 +1,11 @@
-# Python project "Alarm"
+# Python project "Alarm" using tkinter
 ### Project description:
 The program works like an alarm clock. 
 By default, the user is offered a time five minutes ahead of the current one. 
 After setting the alarm, a sound signal is triggered at the specified time.
 After the alarm is triggered, the program does not end, you can continue to set alarms.
+
+Note: The hours can be set in the range from 0 to 24, minutes from 0 to 59
 ### Code
 ```python
 import datetime
