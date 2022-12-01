@@ -6,7 +6,7 @@ Beginner, intermediate and advanced projects :)
 | ------------- | ------------- | ------------- |
 | 1  | [Hello, World!](https://github.com/dora-thea/50_projects_python/tree/main/hello_world)  | Completed|
 | 2  | [Number Guessing Game](https://github.com/dora-thea/50_projects_python/tree/main/number_guessing_game)  | Completed |
-| 3  | Calculator  | In progress |
+| 3  | [Calculator](https://github.com/dora-thea/50_projects_python/tree/main/calculator)  | In progress |
 | 4  | [Alarm (using tkinter)](https://github.com/dora-thea/50_projects_python/tree/main/alarm)  | Completed|
 | 5  | Rock Paper Scissors  | In progress |
 | 6  | Dice Roll Generator  | In progress |
